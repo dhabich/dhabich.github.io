@@ -65,11 +65,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Dirk Habich"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  location         : "Dresden, Germany"
+  employer         : "Technische Universität Dresden, Database Systems Group"
   pubmed           : 
   googlescholar    : "https://scholar.google.de/citations?user=JHRViu0AAAAJ&hl=en"
   email            :
@@ -94,7 +94,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
