@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dirk Habich"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,3 +8,4 @@ redirect_from:
   - /about.html
 ---
 
+I’m Dirk Habich, an Associate Professor at the [TU Dresden](https://www.tu-dresden.de), Germany in the [Database Systems Group](https://wwwdb.inf.tu-dresden.de).
