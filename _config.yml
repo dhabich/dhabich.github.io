@@ -67,9 +67,9 @@ analytics:
 author:
   name             : "Dirk Habich"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Associate Professor at TU Dresden, Database Systems Group"
   location         : "Dresden, Germany"
-  employer         : "Technische Universität Dresden, Database Systems Group"
+  employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.de/citations?user=JHRViu0AAAAJ&hl=en"
   email            :
