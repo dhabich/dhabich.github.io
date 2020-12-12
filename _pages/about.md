@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I’m Dirk Habich, an Associate Professor at the [TU Dresden](https://www.tu-dresden.de), Germany in the [Database Systems Group](https://wwwdb.inf.tu-dresden.de).
+I’m Dirk Habich, an Associate Professor at [TU Dresden](https://www.tu-dresden.de), Germany in the [Database Systems Group](https://wwwdb.inf.tu-dresden.de). 
