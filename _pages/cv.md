@@ -16,7 +16,7 @@ Education
   * Supervisor: Prof. Dr.-Ing. Wolfgang Lehner
   * Reviewer: Prof. Dr. Kai-Uwe Sattler (TU Ilmenau) & Prof. Dr. Jens Teuber (TU Dortmund)
 * **Ph.D (Dr.-Ing.)**, Technische Universität Dresden, 2008
-  * Topic: Complex Data Analysis Processes in Service-Oriented Environments
+  * Topic: [Komplexe Datenanalyseprozesse in serviceorientierten Umgebungen](https://www.qucosa.de/api/qucosa%3A23834/attachment/ATT-0/)
   * Grade: summa cum laude
   * Supervisor: Prof. Dr.-Ing. Wolfgang Lehner
   * Reviewer: Prof. Dr.-Ing. Stefan Deßloch (TU Kaiserslautern) & Dr. Albert Maier (IBM Germany)
@@ -43,7 +43,7 @@ Mentored Ph.D students
 * Lucas Woltmann: Machine Learning for Database Systems, ongoing
 * Johannes Fett: Vectorized Query Processing on GPUs, ongoing
 * Johannes Pietrzyk: One Vector Fits all - Adaptive Vectorized Query Processing, ongoing
-* Mikhail Zarubin: Reliability in Hybrid Memory Databass Systems, ongoing
+* Mikhail Zarubin: Reliability in Hybrid Memory Database Systems, ongoing
 * Juliana Hildebrandt: Model-based Encoding in Database Systems, ongoing
 * Johannes Luong: Heterogeneous Data Analysis in a Heterogeneous System Environment, ongoing
 * Nusrat Jahan Lisa: Adaptive Lightweight Compression  Acceleration on Hybrid CPU-FPGA System, 2020
