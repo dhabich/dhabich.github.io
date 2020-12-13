@@ -37,27 +37,19 @@ Work experience
   * Technische Universität Dresden, Database Systems Group
   * Supervisor: Prof. Dr.-Ing. Wolfgang Lehner
 
-Mentoring Ph.D students
+Mentored Ph.D students
 ======
-* Matthias Böhm: [Cost-based Optimization of Integration Flows](https://tud.qucosa.de/api/qucosa%3A25563/attachment/ATT-0/), finished 2011
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Nusrat Jahan Lisa: [Adaptive Lightweight Compression  Acceleration on Hybrid CPU-FPGA System], 2020
+* Annett Ungethüm: [Analytical Query Processing Using Heterogeneous SIMD Instruction Sets](https://www.qucosa.de/api/qucosa%3A72653/attachment/ATT-0/), 2020
+* Alexander Krause: [Graph Pattern Matching on Symmetric Multiprocessor Systems](https://www.qucosa.de/api/qucosa%3A72430/attachment/ATT-0/), 2020
+* Patrick Damme: [Analytical Query Processing Based on Continuous Compression of Intermediates](https://www.qucosa.de/api/qucosa%3A72328/attachment/ATT-0/), 2020
+* Till Kolditz: [Resiliency Mechanism for In-Memory Column Store](https://www.qucosa.de/api/qucosa%3A33197/attachment/ATT-0/), 2018
+* Tomas Karnagel: [Heterogeneity-Aware Placement Strategies for Query Optimization](https://www.qucosa.de/api/qucosa%3A29319/attachment/ATT-0/), 2017
+* Thomas Kissinger: [Energy-Aware Data Management on NUMA Architecture](https://www.qucosa.de/api/qucosa%3A30274/attachment/ATT-0/), 2017
+* Tim Kiefer: [Allocation Strategies for Data-Oriented Architectures](https://www.qucosa.de/api/qucosa%3A29166/attachment/ATT-0/), 2016
+* Martin Hahmann: [Feedback-Driven Data Clustering](https://www.qucosa.de/api/qucosa%3A27666/attachment/ATT-0/), 2014
+* Steffen Preißler: [Skalierbare Ausführung von Prozessanwendungen in dienstorientierten Umgebungen](https://tud.qucosa.de/api/qucosa%3A26253/attachment/ATT-0/), 2012
+* [Matthias Böhm](https://mboehm7.github.io): [Cost-based Optimization of Integration Flows](https://tud.qucosa.de/api/qucosa%3A25563/attachment/ATT-0/), 2011
 
 Service and leadership
 ======
