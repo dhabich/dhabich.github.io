@@ -39,7 +39,14 @@ Work experience
 
 Mentored Ph.D students
 ======
-* Nusrat Jahan Lisa: [Adaptive Lightweight Compression  Acceleration on Hybrid CPU-FPGA System], 2020
+* Eric Mier: Virtual Vector Query Processing, ongoing
+* Lucas Woltmann: Machine Learning for Database Systems, ongoing
+* Johannes Fett: Vectorized Query Processing on GPUs, ongoing
+* Johannes Pietrzyk: One Vector Fits all - Adaptive Vectorized Query Processing, ongoing
+* Mikhail Zarubin: Reliability in Hybrid Memory Databass Systems, ongoing
+* Juliana Hildebrandt: Model-based Encoding in Database Systems, ongoing
+* Johannes Luong: Heterogeneous Data Analysis in a Heterogeneous System Environment, ongoing
+* Nusrat Jahan Lisa: Adaptive Lightweight Compression  Acceleration on Hybrid CPU-FPGA System, 2020
 * Annett Ungethüm: [Analytical Query Processing Using Heterogeneous SIMD Instruction Sets](https://www.qucosa.de/api/qucosa%3A72653/attachment/ATT-0/), 2020
 * Alexander Krause: [Graph Pattern Matching on Symmetric Multiprocessor Systems](https://www.qucosa.de/api/qucosa%3A72430/attachment/ATT-0/), 2020
 * Patrick Damme: [Analytical Query Processing Based on Continuous Compression of Intermediates](https://www.qucosa.de/api/qucosa%3A72328/attachment/ATT-0/), 2020
