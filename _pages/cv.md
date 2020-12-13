@@ -16,10 +16,12 @@ Education
   * Supervisor: Prof. Dr.-Ing. Wolfgang Lehner
   * Reviewer: Prof. Dr. Kai-Uwe Sattler (TU Ilmenau) & Prof. Dr. Jens Teuber (TU Dortmund)
 * Ph.D (Dr.-Ing.), Technische Universität Dresden, 2008
-  * Topic: Komplexe Datenanalyseprozesse in serviceorientierten Umgebungen
+  * Topic: Complex Data Analysis Processes in Service-Oriented Environments
   * Grade: summa cum laude
   * Supervisor: Prof. Dr.-Ing. Wolfgang Lehner
   * Reviewer: Prof. Dr.-Ing. Stefan Deßloch (TU Kaiserslautern) & Dr. Albert Maier (IBM Germany)
+* Diploma in Computer Science, Martin-Luther-Universität Halle-Wittenberg, 2003
+  * Diploma Thesis Topic: Database Support for Data Mining Applications
 
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
