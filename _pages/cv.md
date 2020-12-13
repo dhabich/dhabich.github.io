@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * **Habilitation (Dr.-Ing. habil.)**, Technische Universität Dresden, 2018
-  * Topic: In-Memory Database Query Processing on Large-Scale Multiprocessor Systems
+  * Topic: [In-Memory Database Query Processing on Large-Scale Multiprocessor Systems](/files/2018/Habil.pdf)
   * Supervisor: Prof. Dr.-Ing. Wolfgang Lehner
   * Reviewer: Prof. Dr. Kai-Uwe Sattler (TU Ilmenau) & Prof. Dr. Jens Teuber (TU Dortmund)
 * **Ph.D (Dr.-Ing.)**, Technische Universität Dresden, 2008
