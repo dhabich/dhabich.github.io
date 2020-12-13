@@ -16,7 +16,7 @@ You can also find my articles on [DBLP](https://dblp.uni-trier.de/pid/97/5806.ht
 
 * Patrick Damme, Annett Ungethüm, Johannes Pietrzyk, Alexander Krause, Dirk Habich, Wolfgang Lehner: **MorphStore: Analytical Query Engine with a Holistic Compression-Enabled Processing Model**. Proc. VLDB Endow. 13(11): 2396-2410, [paper](/files/2020/pvldb.pdf)
 * Mikhail Zarubin, Thomas Kissinger, Dirk Habich, Thomas Willhalm, Wolfgang Lehner: **Efficient compute node-local replication mechanisms for NVRAM-centric data structures**. VLDB J. 29(2-3): 775-795 (2020)
-* Annett Ungethüm, Johannes Pietrzyk, Patrick Damme, Alexander Krause, Dirk Habich, Wolfgang Lehner, Erich Focht: __Hardware-Oblivious SIMD Parallelism for In-Memory Column-Stores__. [CIDR 2020](http://cidrdb.org/cidr2020/index.html), [paper](/files/2020/cidr.pdf)
+* Annett Ungethüm, Johannes Pietrzyk, Patrick Damme, Alexander Krause, Dirk Habich, Wolfgang Lehner, Erich Focht: __Hardware-Oblivious SIMD Parallelism for In-Memory Column-Stores__. [CIDR 2020](http://cidrdb.org/cidr2020/index.html), [paper](/files/2020/cidr.pdf), [slides](/files/2020/cidr-talk.pdf)
 * Johannes Pietrzyk, Dirk Habich, Wolfgang Lehner: **To share or not to share vector registers?** DaMoN@SIGMOD 2020: 12:1-12:10
 * Juliana Hildebrandt, Dirk Habich, Wolfgang Lehner: **Integrating Lightweight Compression Capabilities into Apache Arrow**. DATA 2020: 55-66
 * Lucas Woltmann, Claudio Hartmann, Dirk Habich, Wolfgang Lehner: **Best of both worlds: combining traditional and machine learning models for cardinality estimation**. aiDM@SIGMOD 2020: 4:1-4:8
