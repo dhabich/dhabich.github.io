@@ -37,14 +37,9 @@ Work experience
   * Technische Universität Dresden, Database Systems Group
   * Supervisor: Prof. Dr.-Ing. Wolfgang Lehner
 
-Skills
+Mentoring Ph.D students
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Matthias Böhm: [Cost-based Optimization of Integration Flows](https://tud.qucosa.de/api/qucosa%3A25563/attachment/ATT-0/), finished 2011
 
 Publications
 ======
