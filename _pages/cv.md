@@ -26,18 +26,15 @@ Education
 Work experience
 ======
 * since 2020/01: Associate Professor
-  * Technische Universität Dresden
-  * Database Systems Group
+  * Technische Universität Dresden, Database Systems Group
   * Supervisor: Prof. Dr.-Ing. Wolfgang Lehner
 
 * 2009/04 - 2019/12: PostDoc
-  * Technische Universität Dresden
-  * Database Systems Group
+  * Technische Universität Dresden, Database Systems Group
   * Supervisor: Prof. Dr.-Ing. Wolfgang Lehner
 
 * 1996/10 - 2003/09: Research Assistant
-  * Technische Universität Dresden
-  * Database Systems Group
+  * Technische Universität Dresden, Database Systems Group
   * Supervisor: Prof. Dr.-Ing. Wolfgang Lehner
 
 Skills
