@@ -9,6 +9,7 @@ You can also find my articles on [DBLP](https://dblp.uni-trier.de/pid/97/5806.ht
 
 ## 2021
 
+* Annett Ungethüm, Lennart Schmidt, Johannes Pietrzyk, Dirk Habich, Wolfgang Lehner: **Mastering the NEC Vector Engine Accelerator for Analytical Query Processing**. [ICDE-Workshop HardBD&Active'21](http://db.ict.ac.cn/HardBD-Active-2021/#description)
 * Axel Hertzschuch, Claudio Hartmann, Dirk Habich, Wolfgang Lehner: **Simplicity Done Right for Join Ordering**. [CIDR 2021](http://cidrdb.org/cidr2021/index.html)
 * Lucas Woltmann, Claudio Hartmann, Dirk Habich, Wolfgang Lehner: **Aggregate-based Training Phase for ML-based Cardinality Estimation**. [BTW 2021](https://sites.google.com/view/btw-2021-tud/)
 
