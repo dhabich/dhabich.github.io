@@ -13,7 +13,7 @@ You can also find my articles on [DBLP](https://dblp.uni-trier.de/pid/97/5806.ht
 * Florentin Dörre, Alexander Krause, Dirk Habich, Martin Junghanns: **A GraphBLAS implementation in pure Java**. [GradesNDS-Workshop@SIGMOD 2021](https://gradesnda.github.io)
 * Johannes Fett, Annett Ungehtüm, Dirk Habich, Wolfgang Lehner: **The Case for SIMDified Analytical Query Processing on GPUS**. [DaMoN-Workshop@SIGMOD 2021](https://sites.google.com/view/damon2021)
 * Mikhail Zarubin, Patrick Damme, Alexander Krause, Dirk Habich, Wolfgang Lehner: **SIMD-MIMD Cocktail in a Hybrid Memory Glass: Shaken, not Stirred**. [SYSTOR 2021](https://www.systor.org/2021/)
-* Johannes Fett, Annett Ungethüm, Dirk Habich, Wolfgang Lehner: **Toward Porting Hardware-Oblivious Vectorized Query Operators to GPUs**. [GvDB-Workshop 2021](https://fdit.htwk-leipzig.de/fakultaet-dit/news-events/gvdb21/)
+* Johannes Fett, Annett Ungethüm, Dirk Habich, Wolfgang Lehner: **Towards Porting Hardware-Oblivious Vectorized Query Operators to GPUs**. [GvDB-Workshop 2021](https://fdit.htwk-leipzig.de/fakultaet-dit/news-events/gvdb21/)
 * Annett Ungethüm, Lennart Schmidt, Johannes Pietrzyk, Dirk Habich, Wolfgang Lehner: **Mastering the NEC Vector Engine Accelerator for Analytical Query Processing**. [ICDE-Workshop HardBD&Active 2021](http://db.ict.ac.cn/HardBD-Active-2021/#description)
 * Axel Hertzschuch, Claudio Hartmann, Dirk Habich, Wolfgang Lehner: **Simplicity Done Right for Join Ordering**. [CIDR 2021](http://cidrdb.org/cidr2021/index.html)
 * Lucas Woltmann, Claudio Hartmann, Dirk Habich, Wolfgang Lehner: **Aggregate-based Training Phase for ML-based Cardinality Estimation**. [BTW 2021](https://sites.google.com/view/btw-2021-tud/)
